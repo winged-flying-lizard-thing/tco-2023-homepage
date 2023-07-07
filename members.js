@@ -1,4 +1,4 @@
-export const members = [
+const members = [
   {
     "name": "Bearkirb314🐻‍❄️",
     "profile": "https://www.khanacademy.org/profile/kaid_375460112550893828689953",

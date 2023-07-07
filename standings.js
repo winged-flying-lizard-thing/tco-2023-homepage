@@ -1,4 +1,4 @@
-export const standings = [
+const standings = [
   {
     "team": "ByteBots",
     "points": 0,
